@@ -1,2 +1,2 @@
-welcome to git.
+Welcome to git.
 this is Boccaccio.
